@@ -42,8 +42,4 @@ attr_accessor :status
       self.status = "reversed"
     end
   end
-  
-      
-      
-     
 end
